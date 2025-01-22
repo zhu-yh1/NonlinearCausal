@@ -1,0 +1,11 @@
+,AMPK,Acetyl_COA,Circ_FA,Pyruvate,Citrate,PDC,Fatty_acids,Malonyl_CoA,Glucose,PDK
+AMPK,0,0,0,0,0,0,0,1,0,0
+Acetyl_COA,1,0,0,0,1,0,0,0,0,1
+Circ_FA,0,0,1,1,0,0,1,0,0,0
+Pyruvate,0,1,0,0,0,0,0,0,0,1
+Citrate,0,0,0,0,0,0,1,1,0,0
+PDC,0,1,0,0,0,0,0,0,0,0
+Fatty_acids,0,1,0,0,0,0,0,0,0,1
+Malonyl_CoA,0,1,0,0,0,0,1,0,0,0
+Glucose,0,0,0,1,0,0,0,0,1,0
+PDK,0,0,0,0,0,1,0,0,0,0
