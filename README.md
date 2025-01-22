@@ -4,7 +4,9 @@
 ## Nonlinearity in data
 ![image text](example_figures/nlScore_illustration.png)
 ### Nonlinearity in simulated data
+#### BoolODE
 ![image text](example_figures/BoolODE_data.png)
+#### SERGIO
 ![image text](example_figures/SERGIO_data.png)
 ### Nonlinearity in bulk and sc-RNA-seq data
 ![image text](example_figures/Bio_data.png)
