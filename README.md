@@ -1,10 +1,14 @@
 # NonlinearCausal
  In this paper we evaluated linear and non-linear versions of widely used CD approaches across a wide range of datasets using ODE based simulations to real biological data.
 
-## Working pipeline
-
 ## Nonlinearity in data
 ![image text](nlScore_illustration.png)
+### Nonlinearity in simulated data
+![image text](BoolODE_data.png)
+![image text](SERGIO_data.png)
+### Nonlinearity in bulk and sc-RNA-seq data
+![image text](Bio_data.png)
+
 
 ## Causal discovery methods
 All code are available [here](https://github.com/zhu-yh1/NonlinearCausal/tree/main/code/causal_discovery_algorithms)
