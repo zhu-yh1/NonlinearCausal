@@ -2,12 +2,12 @@
  In this paper we evaluated linear and non-linear versions of widely used CD approaches across a wide range of datasets using ODE based simulations to real biological data.
 
 ## Nonlinearity in data
-![image text](nlScore_illustration.png)
+![image text](example_figures/nlScore_illustration.png)
 ### Nonlinearity in simulated data
-![image text](BoolODE_data.png)
-![image text](SERGIO_data.png)
+![image text](example_figures/BoolODE_data.png)
+![image text](example_figures/SERGIO_data.png)
 ### Nonlinearity in bulk and sc-RNA-seq data
-![image text](Bio_data.png)
+![image text](example_figures/Bio_data.png)
 
 
 ## Causal discovery methods
