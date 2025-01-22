@@ -71,3 +71,9 @@ python -u PC_rcit.py -i $inputFile \
                 --time_path=$runtimeOutput \
                 --zscore
 ```
+
+## Result Visualization
+Download benchmarking results and shiny app code here for visulization
+```
+Rscript shinyApp.R
+```
