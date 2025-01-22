@@ -1,5 +1,5 @@
 # NonlinearCausal
- In this paper we evaluated linear and non-linear versions of widely used CD approaches across a wide range of datasets using ODE based simulations to real biological data.
+ In this paper we evaluated linear and non-linear versions of widely used causal discovery approaches across a wide range of datasets using ODE based simulations to real biological data.
 
 ## Nonlinearity in data
 ![image text](example_figures/nlScore_illustration.png)
