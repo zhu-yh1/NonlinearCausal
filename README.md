@@ -10,6 +10,13 @@
 ![image text](example_figures/SERGIO_data.png)
 ### Nonlinearity in bulk and sc-RNA-seq data
 ![image text](example_figures/Bio_data.png)
+### Calculate nonlinearity score
+```
+python -u nlScore.py -i $inputFile \
+                     -o $outputPath \
+                     --fileName=$outfileName \
+                     --nfeatures=$nfeatures
+```
 
 
 ## Causal discovery methods
