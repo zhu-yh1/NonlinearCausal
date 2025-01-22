@@ -4,6 +4,7 @@
 ## Working pipeline
 
 ## Nonlinearity in data
+![image text](nlScore_illustration.png)
 
 ## Causal discovery methods
 All code are available [here](https://github.com/zhu-yh1/NonlinearCausal/tree/main/code/causal_discovery_algorithms)
