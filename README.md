@@ -3,9 +3,9 @@
  
 
 ## Nonlinearity in data
+![image text](example_figures/nlScore_illustration.png)
 
 ### Nonlinearity in simulated data
-![image text](example_figures/nlScore_illustration.png)
 #### BoolODE
 ![image text](example_figures/BoolODE_data.png)
 #### SERGIO
