@@ -1,10 +1,9 @@
 # NonlinearCausal
  In this paper we evaluated linear and non-linear versions of widely used causal discovery approaches across a wide range of datasets using ODE based simulations to real biological data.
 
- ## Try our [webpage](https://marissadi.shinyapps.io/shinyappsio/) for data visualization and causal discovery benchmarking results
-```url
-https://marissadi.shinyapps.io/shinyappsio/
-```
+## Benchmarking Result Visualization
+Try our [webpage](https://marissadi.shinyapps.io/shinyappsio/) for data visualization and causal discovery benchmarking results
+
 
 ## Nonlinearity in data
 ![image text](example_figures/nlScore_illustration.png)
@@ -87,8 +86,5 @@ python -u PC_rcit.py -i $inputFile \
                 --zscore
 ```
 
-## Result Visualization
-Download benchmarking results and shiny app code here for visulization
-```
-Rscript shinyApp.R
-```
+
+
