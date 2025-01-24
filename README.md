@@ -1,9 +1,21 @@
 # NonlinearCausal
  In this paper we evaluated linear and non-linear versions of widely used causal discovery approaches across a wide range of datasets using ODE based simulations to real biological data.
- 
+
+ ## Try our [webpage](https://marissadi.shinyapps.io/shinyappsio/) for data visualization and causal discovery benchmarking results
+```url
+https://marissadi.shinyapps.io/shinyappsio/
+```
 
 ## Nonlinearity in data
 ![image text](example_figures/nlScore_illustration.png)
+
+### Calculate nonlinearity score
+```
+python -u nlScore.py -i $inputFile \
+                     -o $outputPath \
+                     --fileName=$outfileName \
+                     --nfeatures=$nfeatures
+```
 
 ### Nonlinearity in simulated data
 #### BoolODE
@@ -12,13 +24,7 @@
 ![image text](example_figures/SERGIO_data.png)
 ### Nonlinearity in bulk and sc-RNA-seq data
 ![image text](example_figures/Bio_data.png)
-### Calculate nonlinearity score
-```
-python -u nlScore.py -i $inputFile \
-                     -o $outputPath \
-                     --fileName=$outfileName \
-                     --nfeatures=$nfeatures
-```
+
 
 
 ## Causal discovery methods
